@@ -1,0 +1,24 @@
+body {
+  background-color: #EAF6F6
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 5px;
+  width: 5%;
+}
+
+img:hover {
+  background-color: powderblue;
+width:250px;
+height:250px; }
+
+.books {
+  background-color: white;
+}
+
+h1 {
+  font-size: 150px;
+}
